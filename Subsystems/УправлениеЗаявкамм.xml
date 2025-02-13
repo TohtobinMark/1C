@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Subsystem uuid="825ed41c-2e9d-4f6a-9a86-35da6a52d505">
+		<Properties>
+			<Name>УправлениеЗаявкамм</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управление заявкамм</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<Explanation/>
+			<Picture>
+				<xr:Ref>CommonPicture.ОбщаяКартинка1</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">eaa3820a-5e5b-4400-8916-369318c432f3</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">edb07da5-eb46-4fe2-9625-5b9e7657d2e3</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">d840df5f-df7e-4dfd-96ed-aba06769de45</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">33fd3772-21f3-4f1a-8a58-ffc92de2737a</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">49be21ae-aacb-48ff-ac5d-081098d8664c</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ОбщаяКартинка1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеЗаявок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтветНаЗаявку</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОбработкаЗаявок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СтатусЗаявок</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>

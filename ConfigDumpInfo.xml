@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОбработкаЗаявок" id="ae905da6-0b76-42b7-bd71-75bed796bd82" configVersion="8e86e943c587ab4bab168d8162314ea500000000">
+			<Metadata name="AccumulationRegister.ОбработкаЗаявок.Dimension.Клиент" id="53b75085-25e8-4fe6-8a76-6fb597e5bb2c"/>
+			<Metadata name="AccumulationRegister.ОбработкаЗаявок.Resource.СтоимостьЗаявки" id="6faa41df-93ce-4612-bb19-c158c96be6ee"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="56826b6c-acb5-4e2c-9653-6c760ae31807" configVersion="26d091b3a109ea44b5cffe7dcd35582f00000000">
+			<Metadata name="Catalog.Клиенты.Attribute.КонтактноеЛицо" id="5eec6629-bffa-4484-ba87-fbbc241d2c94"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ДатаРегистрации" id="6bac5bc1-3ff8-48f1-9166-b92de17f7703"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="cda86f96-ed60-4978-8952-21698b184357"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="b56daa1d-474d-484d-924d-5d1c61415b3a" configVersion="014be3e673b9904f876825be8e27ae4800000000"/>
+		<Metadata name="Catalog.СтатусЗаявок" id="5a34e405-aa16-4d7c-bd20-c3f8bca69011" configVersion="dd1e3dc0ad0a1e4ab3c6bc276e4feb6300000000">
+			<Metadata name="Catalog.СтатусЗаявок.Attribute.Описание" id="d341ed02-2591-4fb7-9ea1-d7e9a7733793"/>
+		</Metadata>
+		<Metadata name="CommonPicture.ОбщаяКартинка1" id="add9850b-1956-453a-b1e1-f66483fd6dd6" configVersion="d9c098772f21dc4c878bbee38013694000000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка1.Picture" id="add9850b-1956-453a-b1e1-f66483fd6dd6.0" configVersion="93a613eef5b06948be87a52f2c32690f00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка2" id="d4b20bd8-6d1f-4c18-9e03-9b3ebb3acee6" configVersion="1b57cc2c1bacfa4db1db634411e457bd00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка2.Picture" id="d4b20bd8-6d1f-4c18-9e03-9b3ebb3acee6.0" configVersion="afd083b18745b348b2d106fe85095a2500000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка3" id="754c121a-eba3-41a1-aca0-a0d8f56928c8" configVersion="e3255a3c14db004d9fca9d1efac8afaa00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка3.Picture" id="754c121a-eba3-41a1-aca0-a0d8f56928c8.0" configVersion="43e1e9a9c101194faf7591a0fe21403100000000"/>
+		<Metadata name="Configuration.ТохтобинМаркИСПРО31" id="26fab0e1-6bfc-4a40-9e68-a032a3ca42c0" configVersion="72a8628109f4f2479b82fa3c66b27fc900000000"/>
+		<Metadata name="Configuration.ТохтобинМаркИСПРО31.MainSectionCommandInterface" id="475296bc-0571-4343-8232-9b3d933a8bd4.9" configVersion="b946de24725cd347a249987f243ca9e900000000"/>
+		<Metadata name="Document.ОтветНаЗаявку" id="ae75e615-bd7e-4633-8a5e-037ad28af79d" configVersion="43d282df65a94d48b6fa604205048d2b00000000">
+			<Metadata name="Document.ОтветНаЗаявку.Attribute.Заявка" id="67d9c5a6-2fd7-4bb4-810c-15804b5af01b"/>
+			<Metadata name="Document.ОтветНаЗаявку.Attribute.ОписаниеОтвета" id="aaa6cc1c-37fa-4130-869c-8123baddf44c"/>
+			<Metadata name="Document.ОтветНаЗаявку.Attribute.Ответственный" id="b8afdd2d-3a39-4464-aafa-a6f664e801e0"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеЗаявок" id="2feeca04-ea24-4d44-a501-7298986bf085" configVersion="85dde57836a60f4d97b1b4205ddfd9e000000000">
+			<Metadata name="Document.ПоступлениеЗаявок.Attribute.Клиент" id="49f228ab-f39c-424e-9d83-80847a2cbbdc"/>
+			<Metadata name="Document.ПоступлениеЗаявок.Attribute.СтоимостьЗаявки" id="4f413089-e0a5-4c69-90cc-7a36386ad09d"/>
+			<Metadata name="Document.ПоступлениеЗаявок.Attribute.Описание" id="7177e97f-410a-4fd4-8afb-57dfb5eb350a"/>
+			<Metadata name="Document.ПоступлениеЗаявок.Attribute.Ответственный" id="d227cae2-c66f-4da5-8acb-bc1ca1f9008c"/>
+			<Metadata name="Document.ПоступлениеЗаявок.Attribute.ВидЗаявки" id="f7db6b2e-f01a-4553-8f2c-272b78df6611"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеЗаявок.ObjectModule" id="2feeca04-ea24-4d44-a501-7298986bf085.0" configVersion="f3d2b3591cf1ec499f63332c409a7be700000000"/>
+		<Metadata name="Enum.ВидЗаявок" id="ca769a03-0ef8-430c-892b-94fd37da7b9a" configVersion="6adf3830cd4a694f9b5424ffe5812f5e00000000">
+			<Metadata name="Enum.ВидЗаявок.EnumValue.ЗаявкаНаУслугу" id="28f6eef8-6298-497c-a9cf-030d34c73740"/>
+			<Metadata name="Enum.ВидЗаявок.EnumValue.ЗаявкаНаТовар" id="456f9835-d22d-4f06-802a-c8d1be85d187"/>
+			<Metadata name="Enum.ВидЗаявок.EnumValue.ЗаявкаНаВозврат" id="810362ba-295e-45ea-81f5-215799cd4cd1"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="3449546d-3071-4d6f-9206-afb74af5f02c" configVersion="261e6c6c82d68f439d05c9cd158b39f600000000"/>
+		<Metadata name="Report.Заявки" id="5c89a9b6-c7e2-46cf-ae28-8428a51859fb" configVersion="5de712b9934a844ba06ca0023ff7ef9200000000"/>
+		<Metadata name="Report.Заявки.Template.ОсновнаяСхемаКомпоновкиДанных" id="213437f7-66d5-4b84-85ba-4c24b241bc4d" configVersion="bca2f160bd8c95429137fb1c1836492f00000000"/>
+		<Metadata name="Report.Заявки.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="213437f7-66d5-4b84-85ba-4c24b241bc4d.0" configVersion="905c924c49ec58478e7870a8544cd37b00000000"/>
+		<Metadata name="Subsystem.Аналитика" id="28221704-d81a-4f68-8ba2-d3057ee63544" configVersion="e9ec1fc8dd31c24da069bc884660d37b00000000"/>
+		<Metadata name="Subsystem.УправлениеЗаявкамм" id="825ed41c-2e9d-4f6a-9a86-35da6a52d505" configVersion="05d12fc6a689ab4695c42c4ebae2058900000000"/>
+		<Metadata name="Subsystem.УправлениеЗаявкамм.CommandInterface" id="825ed41c-2e9d-4f6a-9a86-35da6a52d505.1" configVersion="859169e2b49fb54d8741c0e598244f0e00000000"/>
+		<Metadata name="Subsystem.УправлениеКлиентами" id="2298ab8c-3048-4562-b99e-1600e4823673" configVersion="cf97cd68c93efd4486f1e58a0068914000000000"/>
+		<Metadata name="Subsystem.УправлениеКлиентами.CommandInterface" id="2298ab8c-3048-4562-b99e-1600e4823673.1" configVersion="e6a6299e84e0f14cbb16ca329d68ee1300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
